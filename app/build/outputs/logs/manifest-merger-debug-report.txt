@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
+	package
+		ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:18:5-46
+		INJECTED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:17:5-63
+	android:versionCode
+		INJECTED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:20:5-36:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\acer\.android\build-cache\fb5affabb1144f2bba0f97aa881fed7459ec6fbb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\acer\.android\build-cache\a5416d237db1e1b362b43a72cc93e2b94a49ae7d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\acer\.android\build-cache\78ae765b2c1839824bb785e010cf884960aca510\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\acer\.android\build-cache\06f8ba447c1d080e045444d1839302372e0a27c0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\acer\.android\build-cache\740e42a20416c4afe182194a34f90a9c76d438ad\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\acer\.android\build-cache\51099c31b25085f20b24effd8719fac9e5e495b5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\acer\.android\build-cache\b5097ea3990754516e5bb4b8316cffc1c6731cdf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\acer\.android\build-cache\9e597848c923cb909fa85a06a32d896431200809\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\acer\.android\build-cache\6fe759a98d0daf789836e81433c80250818ec837\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\acer\.android\build-cache\233b0434476f2b859606c52f1826456cf6869b74\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\acer\.android\build-cache\86deb96a526df6b1c92c24c1ce5a39018953d70c\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:23:9-41
+	android:supportsRtl
+		ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:24:9-35
+	android:allowBackup
+		ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:22:9-43
+	android:theme
+		ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.android.example.wordlistsql.MainActivity
+ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:26:9-33:20
+	android:name
+		ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:26:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.android.example.wordlistsql.EditWordActivity
+ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:34:9-63
+	android:name
+		ADDED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml:34:19-51
+uses-sdk
+INJECTED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\acer\.android\build-cache\fb5affabb1144f2bba0f97aa881fed7459ec6fbb\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\acer\.android\build-cache\a5416d237db1e1b362b43a72cc93e2b94a49ae7d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\acer\.android\build-cache\78ae765b2c1839824bb785e010cf884960aca510\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\acer\.android\build-cache\06f8ba447c1d080e045444d1839302372e0a27c0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\acer\.android\build-cache\53dadaa575619c537f1dc0f1afa5ca13a2dcb474\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\acer\.android\build-cache\740e42a20416c4afe182194a34f90a9c76d438ad\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\acer\.android\build-cache\51099c31b25085f20b24effd8719fac9e5e495b5\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\acer\.android\build-cache\b5097ea3990754516e5bb4b8316cffc1c6731cdf\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\acer\.android\build-cache\9e597848c923cb909fa85a06a32d896431200809\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\acer\.android\build-cache\6fe759a98d0daf789836e81433c80250818ec837\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\acer\.android\build-cache\233b0434476f2b859606c52f1826456cf6869b74\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\acer\.android\build-cache\86deb96a526df6b1c92c24c1ce5a39018953d70c\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\acer\.android\build-cache\fb5affabb1144f2bba0f97aa881fed7459ec6fbb\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\KULIAH\SEMESTER7\TUGAS\P.MOPRO\WordListSql-Starter\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\acer\.android\build-cache\fb5affabb1144f2bba0f97aa881fed7459ec6fbb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\acer\.android\build-cache\a5416d237db1e1b362b43a72cc93e2b94a49ae7d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\acer\.android\build-cache\78ae765b2c1839824bb785e010cf884960aca510\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\acer\.android\build-cache\06f8ba447c1d080e045444d1839302372e0a27c0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\acer\.android\build-cache\53dadaa575619c537f1dc0f1afa5ca13a2dcb474\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\acer\.android\build-cache\740e42a20416c4afe182194a34f90a9c76d438ad\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\acer\.android\build-cache\51099c31b25085f20b24effd8719fac9e5e495b5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\acer\.android\build-cache\b5097ea3990754516e5bb4b8316cffc1c6731cdf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\acer\.android\build-cache\9e597848c923cb909fa85a06a32d896431200809\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\acer\.android\build-cache\6fe759a98d0daf789836e81433c80250818ec837\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\acer\.android\build-cache\233b0434476f2b859606c52f1826456cf6869b74\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\acer\.android\build-cache\86deb96a526df6b1c92c24c1ce5a39018953d70c\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\acer\.android\build-cache\fb5affabb1144f2bba0f97aa881fed7459ec6fbb\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\acer\.android\build-cache\fb5affabb1144f2bba0f97aa881fed7459ec6fbb\output\AndroidManifest.xml:26:9-47
